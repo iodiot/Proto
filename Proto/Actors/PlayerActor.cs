@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input.Touch;
-using MonoGame.Extended.Shapes;
+using C3.XNA;
 
 namespace Proto.Actors
 {
@@ -29,6 +29,8 @@ namespace Proto.Actors
     public override void Draw()
     {
       core.DrawRectangle(new Rectangle(X, Y, Width, Height), Color.Yellow);
+
+      core.SpriteBatch.DrawLine(0f, 0f, 500f, 500f, Color.Red, 5f);
 
       base.Draw();
     }

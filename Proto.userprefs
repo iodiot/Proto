@@ -3,8 +3,8 @@
     <Files>
       <File FileName="Proto/Actors/Actor.cs" Line="13" Column="1" />
       <File FileName="packages/MonoGame.Extended.0.6.568/readme.txt" Line="1" Column="1" />
-      <File FileName="packages/MonoGame.Extended.Content.Pipeline.0.6.568/readme.txt" Line="16" Column="1" />
-      <File FileName="Proto/Actors/PlayerActor.cs" Line="4" Column="25" />
+      <File FileName="Proto/Actors/PlayerActor.cs" Line="5" Column="2" />
+      <File FileName="Proto/Primitives2D.cs" Line="8" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
