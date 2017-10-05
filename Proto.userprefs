@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{A91BC717-9CD2-4CC8-BF12-3AA87256F81A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proto/Actors/Actor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proto/Actors/PlayerActor.cs">
     <Files>
       <File FileName="Proto/Actors/Actor.cs" Line="13" Column="1" />
+      <File FileName="packages/MonoGame.Extended.0.6.568/readme.txt" Line="1" Column="1" />
+      <File FileName="packages/MonoGame.Extended.Content.Pipeline.0.6.568/readme.txt" Line="16" Column="1" />
+      <File FileName="Proto/Actors/PlayerActor.cs" Line="4" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
