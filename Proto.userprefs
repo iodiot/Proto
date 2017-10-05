@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A91BC717-9CD2-4CC8-BF12-3AA87256F81A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proto/Actors/Actor.cs">
+    <Files>
+      <File FileName="Proto/Actors/Actor.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Proto.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.e01b89a8ca009adf6c96ac7309006b93e5d03031" />
+  <MultiItemStartupConfigurations />
+</Properties>
